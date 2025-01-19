@@ -10,15 +10,34 @@ One of the most important uses of a class method/function is use of input values
 
 Consider the code in example1.py
 Answer the questions provided in the attached Google Document
-1. How many class methods does this class use?
+1. How many class methods does this class use? 
+3
+
 2. What is the purpose of the class method on line 26
+initialize the object, assign values to members
+
 3. What are the class properties in this template?
+l, w
+
 4. Which variables are used that are not class properties?
+temp_length,temp_width,temp_area
+
 5. Which class methods make use of a return value?
+multipleArea
+
 6. What do you think is meant by the term "positional argument"
+values passed into the function matches the order of input parameters
+
 7. How many positional arguments does the instance created on line 32 take?
+0
+
 8. How many positional arguments are expected on line 10?
+0
+
 9. How many positional arguments are expected on line 19?
+1
+
+
 10.  Notice the use of color.  ANSI escape codes can be used to add color/backgrounds to text.  See https://www.kaggle.com/discussions/general/273188
 
 Task 1:
